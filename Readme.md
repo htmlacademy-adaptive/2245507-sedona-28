@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Laura Bambaeva](https://up.htmlacademy.ru/adaptive/28/user/2245507).
-* Наставник: `Неизвестно`.
+* Наставник: [Карина Карапетян](https://htmlacademy.ru/profile/karinaweb).
 
 ---
 
